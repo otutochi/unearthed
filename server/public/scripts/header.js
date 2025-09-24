@@ -1,5 +1,3 @@
-
-
 const header = document.querySelector('header')
 
 const headerContainer = document.createElement('div')
